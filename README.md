@@ -18,6 +18,6 @@ MIT
 
 ## Deployed Link
 
-https://dannydelts94.github.io/the-19th-hole/
+[https://dannydelts94.github.io/the-19th-hole/](https://mcamarco.github.io/the-19th-hole/)
 
 ![Screenshot 19th Hole](/assets/screenshot%20pro.png)
