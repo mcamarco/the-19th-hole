@@ -1,16 +1,25 @@
 # Weather App Readme
 
-This is a weather application that allows users to retrieve weather information based on a specific zip code. The application displays the weather conditions, humidity, temperature, and wind speed for the given zip code. It also provides additional functionality to search for nearby golf courses and breweries based on the zip code.
+This is a  application that allows users to retrieve weather information, golf locations and breweries based on a specific zip code. The application displays the weather conditions, humidity, temperature, and wind speed for the given zip code. 
 
 ## Technologies Used
 
 - JavaScript
+- Node.js
 - jQuery
 - HTML
 - CSS
 - Google Maps API
 - OpenWeatherMap API
 - Visual Crossing Weather API
+- Express.js
+- MySQL
+- Sequelize ORM
+- Handlebars.js
+- RESTful API Development
+- Database Implementation
+- Responsive UI Design
+
 
 ## Installation
 

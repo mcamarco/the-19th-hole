@@ -1,15 +1,3 @@
-/* 
-#map {
-    width:100%;
-    height: 400px;
-    background-color: grey;
-} */
-
-body {
-    /* background-color: rgb(90, 127, 66); */
-    /* background-color: rgb(120, 151, 87); */
-}
-
 body,
 html {
     height: 100%;
@@ -25,13 +13,8 @@ html {
 }
 
 .hero-text {
-    text-align: center;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     color: white;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-family:monospace;
 }
 
 h1 {
@@ -39,18 +22,18 @@ h1 {
 }
 
 .label {
-    font-size: x-large;
+    
 }
 
 #search-by-zip {
     text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
 
 }
 
 #recent-searches {
     text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
 
 }
 
@@ -61,19 +44,19 @@ h1 {
 
 #golf-courses {
     text-align: center;
-    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+    
 
 }
 
 #distributors {
     text-align: center;
-    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+    
 
 }
 
 .current-weather {
     text-align: center;
-    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+  
 }
 
 .golfcards {
@@ -81,7 +64,7 @@ h1 {
     border: 2px solid #000000;
     border-radius: 5px;
     padding: 5px;
-    /* font-family: 'Open Sans', sans-serif; */
+  
     color: #333;
 
 }
@@ -91,7 +74,7 @@ h1 {
     border: 2px solid #000000;
     border-radius: 5px;
     padding: 10px;
-    font-family: 'Open Sans', sans-serif;
+    
     color: #333;
 }
 
@@ -100,6 +83,6 @@ h1 {
     border: 2px solid #83C07C;
     border-radius: 5px;
     padding: 10px;
-    font-family: 'Open Sans', sans-serif;
+
     color: #333;
 }
