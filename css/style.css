@@ -1,0 +1,105 @@
+/* 
+#map {
+    width:100%;
+    height: 400px;
+    background-color: grey;
+} */
+
+body {
+    background-color: rgb(113, 212, 51);
+    background-color: rgb(95, 162, 23);
+}
+
+body,
+html {
+    height: 100%;
+}
+
+.hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../assets/hero.jpg");
+    height: 30%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+.label {
+    font-size: x-large;
+}
+
+#search-by-zip {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+#recent-searches {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.box {
+    background-color: chartreuse;
+
+}
+
+#golf-courses {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+#distributors {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.current-weather {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.golfcards {
+    background-color: #D4F1C5;
+    border: 2px solid #83C07C;
+    border-radius: 5px;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+    color: #333;
+
+}
+
+.distributorsCards {
+    background-color: #D4F1C5;
+    border: 2px solid #83C07C;
+    border-radius: 5px;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+    color: #333;
+}
+
+.weatherCards {
+    background-color: #D4F1C5;
+    border: 2px solid #83C07C;
+    border-radius: 5px;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+    color: #333;
+}
