@@ -6,8 +6,8 @@
 } */
 
 body {
-    background-color: rgb(113, 212, 51);
-    background-color: rgb(95, 162, 23);
+    /* background-color: rgb(90, 127, 66); */
+    /* background-color: rgb(120, 151, 87); */
 }
 
 body,
@@ -55,40 +55,40 @@ h1 {
 }
 
 .box {
-    background-color: chartreuse;
+    background-color: rgb(155, 204, 106);
 
 }
 
 #golf-courses {
     text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
 
 }
 
 #distributors {
     text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
 
 }
 
 .current-weather {
     text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
 }
 
 .golfcards {
     background-color: #D4F1C5;
-    border: 2px solid #83C07C;
+    border: 2px solid #000000;
     border-radius: 5px;
-    padding: 10px;
-    font-family: 'Open Sans', sans-serif;
+    padding: 5px;
+    /* font-family: 'Open Sans', sans-serif; */
     color: #333;
 
 }
 
 .distributorsCards {
     background-color: #D4F1C5;
-    border: 2px solid #83C07C;
+    border: 2px solid #000000;
     border-radius: 5px;
     padding: 10px;
     font-family: 'Open Sans', sans-serif;
